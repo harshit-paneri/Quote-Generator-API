@@ -1,1 +1,1 @@
-# Quote-Generator-API
+# Quote Generator API
