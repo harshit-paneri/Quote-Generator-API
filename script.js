@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
         quote.textContent = data.content;
       } else {
         quote.textContent = "An error occured";
-        console.log(data);
+        //console.log(data);
       }
     }
 
